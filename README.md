@@ -1,6 +1,6 @@
-# House-Price-Prediction-V2-Feature-Engineering
+# House-Price-Prediction-Feature-Engineering
 
-### Follow-Up Study of a House Price Prediction Pipeline
+### Follow-Up Study of a House Price Intelligence Pipeline
 
 This project is a follow-up to an earlier house price prediction model, building directly on the baseline **XGBoost pipeline**. [Link to baseline project here](https://github.com/NimotaPro/House-Price-Intelligence-Pipeline/blob/main/README.md)
 
